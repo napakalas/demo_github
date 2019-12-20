@@ -73,7 +73,7 @@ Di Repository lokal kita dapat menambahkan atau mengubah file apapun secara flek
   ![](gambar/17.png)
 - Pengubahan contoh.docx, (langsung hasil commit)
   ![](gambar/18.png)
-- Bagaimanapun kita menginginkan ada informasi perubahan terhadap file binary. Untuk keperluan tersebut ada baiknya melakukan export ke file txt sebelum commit dan menyimpan file txt tersebut di folder yang sama. Format file txt yang paling nyaman digunakan di GitHub adalah MarkDown (md). Untuk melakukan export bisa dengan menginstall plugin [writage](http://www.writage.com/#download](http://www.writage.com/#download) untuk OS Windows sehingga bisa melakukan Save As MarkDown. Untuk MacOS dan Linux bisa menggunakan [Pandoc](https://pandoc.org/installing.html), namun perlu mengeksekusi command dari Terminal. Jika tidak mau ribet, maka bisa juga melakukan Save As Plain Text. Berikut adalah hasil commit setelah melakukan pengubahan di contoh.docx dan Save As Plain Text dengan nama file teks contoh-docx.txt.
+- Bagaimanapun kita menginginkan ada informasi perubahan terhadap file binary. Untuk keperluan tersebut ada baiknya melakukan export ke file txt sebelum commit dan menyimpan file txt tersebut di folder yang sama. Format file txt yang paling nyaman digunakan di GitHub adalah MarkDown (md). Untuk melakukan export bisa dengan menginstall plugin [writage](http://www.writage.com/#download) untuk OS Windows sehingga bisa melakukan Save As MarkDown. Untuk MacOS dan Linux bisa menggunakan [Pandoc](https://pandoc.org/installing.html), namun perlu mengeksekusi command dari Terminal. Jika tidak mau ribet, maka bisa juga melakukan Save As Plain Text. Berikut adalah hasil commit setelah melakukan pengubahan di contoh.docx dan Save As Plain Text dengan nama file teks contoh-docx.txt.
   ![](gambar/19.png)
 
 ### Update state dan upload file ke server:
@@ -118,4 +118,4 @@ Untuk repository yang private, kita bisa memberi hak ke akun lain dengan menamba
 2. Digabung dengan Google Stream apa bisa?
   Bisa banget, tinggal local repository diarahkan ke directory Google Stream. Otomatis dapat 3 duplikasi file, lokal, google drive, dan GitHub.
 
-Pertanyaan lebih lanjut silahkan sampaikan di 
+Pertanyaan lebih lanjut silahkan sampaikan di [Issues](https://github.com/napakalas/demo_github/issues)
